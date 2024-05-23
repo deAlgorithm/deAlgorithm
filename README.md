@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OTABIL ISHAQUE
 - 👀 I’m interested in internship programs
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Web development and Data Science
 - 💞️ I’m looking to collaborate on any front-end project 
 - 📫 linkedin.com/in/ishaqueotabil
 - 📫 ishaqueotabil44@gmail.com
