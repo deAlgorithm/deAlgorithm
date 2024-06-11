@@ -1,4 +1,4 @@
-<p align="right">
+7<p align="right">
     <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" />
 </p>
 
@@ -63,17 +63,12 @@ Call me = "Mendy" 🤗
 </p>
 
 ## 📊 GitHub Stats
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=deAlgorithm&show_icons=true&theme=radical" alt="deAlgorithm's GitHub stats" />
-</p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deAlgorithm&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=deAlgorithm&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deAlgorithm&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deAlgorithm&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deAlgorithm&theme=github_dark)
+[![Otabil Ishaque's stats](https://github-readme-stats.vercel.app/api?username=deAlgorithm&show_icons=true&theme=github_dark)](https://github.com/deAlgorithm)
 
-## 📈 GitHub Activity Graph
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=deAlgorithm&theme=redical" alt="GitHub Activity Graph" />
-</p>
 
 ## 📂 Recent Projects
 <!---
