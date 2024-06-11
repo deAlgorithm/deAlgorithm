@@ -1,3 +1,5 @@
+![image](https://github.com/deAlgorithm/deAlgorithm/assets/131563995/68f150ed-2526-422f-9e7a-28bbbed416b9)
+
 - 👋 Hi, I’m OTABIL ISHAQUE
 - 👀 I’m interested in internship programs
 - 🌱 I’m currently learning Web development and Data Science
