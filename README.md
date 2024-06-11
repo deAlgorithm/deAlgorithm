@@ -1,6 +1,6 @@
 
 
-```markdown
+
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=e91e63&style=flat" alt="deAlgorithm" />
 </p>
