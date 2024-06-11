@@ -60,9 +60,6 @@ Call me = "Mendy" 🤗
     <a href="https://github.com/deAlgorithm">
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/deAlgorithm">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </a>&nbsp;&nbsp;
 </p>
 
 ## 📊 GitHub Stats
