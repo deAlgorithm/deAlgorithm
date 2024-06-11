@@ -14,7 +14,7 @@ Call me = "Mendy" 🤗
 
 [![telegram badge](https://img.shields.io/badge/The_WHITEFLAME-30302f?style=for-the-badge&logo=telegram)](https://t.me/the_whiteflame)
 [![WhatsApp badge](https://img.shields.io/badge/whatsapp?style=for-the-badge&logo=whatsapp)](https://https://wa.me/+233257364646)
-[![WhatsApp badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaqueotabil)
+[![Linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaqueotabil)
 
 <!---
 deAlgorithm/deAlgorithm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
