@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
+5<p align="right"> <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
 <p>
     <h1 align="center"> Hi 👋, I'm OTABIL</h1>
 <p align="center"> 
@@ -23,6 +23,9 @@ Call me = "Mendy" 🤗
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 ### I know : 
+<a href="https://github.com/deAlgorithm">
+    <img src="https://img.shields.io/badge/git-00000F?style=for-the-badge&logo=git&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 <!---
 deAlgorithm/deAlgorithm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
