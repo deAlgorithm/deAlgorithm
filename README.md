@@ -24,7 +24,7 @@ Call me = "Mendy" 🤗
 
 ### I know : 
 <a href="https://github.com/deAlgorithm">
-    <img src="https://img.shields.io/badge/git-00000F?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/deAlgorithm">
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
