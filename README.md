@@ -13,7 +13,7 @@ Call me = "Mendy" 🤗
 <h3 align="left">🔌 CONNECT:</h3>
 
 [![telegram badge](https://img.shields.io/badge/The_WHITEFLAME-30302f?style=for-the-badge&logo=telegram)](https://t.me/the_whiteflame)
-[![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=whatsapp)](https://www.linkedin.com/in/ishaqueotabil)
+[![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=whatsapp)](https://https://wa.me/qr/ZBDRSL5ZCTPOF1)
 [![WhatsApp badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaqueotabil)
 
 <!---
