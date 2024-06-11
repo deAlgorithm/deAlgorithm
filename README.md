@@ -1,8 +1,5 @@
-
-
-
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=e91e63&style=flat" alt="deAlgorithm" />
+    <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" />
 </p>
 
 <h1 align="center"> Hi 👋, I'm OTABIL</h1>
@@ -55,9 +52,39 @@ Call me = "Mendy" 🤗
     </a>&nbsp;&nbsp;
 </p>
 
+## 🛠️ Tools & Technologies
+<p align="left">
+    <a href="https://github.com/deAlgorithm">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/deAlgorithm">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/deAlgorithm">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>&nbsp;&nbsp;
+</p>
+
+## 📊 GitHub Stats
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=deAlgorithm&show_icons=true&theme=radical" alt="deAlgorithm's GitHub stats" />
+</p>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deAlgorithm&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 📈 GitHub Activity Graph
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=deAlgorithm&theme=redical" alt="GitHub Activity Graph" />
+</p>
+
+## 📂 Recent Projects
+- [Project 1](https://github.com/deAlgorithm/project1): Brief description of project 1.
+- [Project 2](https://github.com/deAlgorithm/project2): Brief description of project 2.
+- [Project 3](https://github.com/deAlgorithm/project3): Brief description of project 3.
+
 <!---
 deAlgorithm/deAlgorithm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ```
-
