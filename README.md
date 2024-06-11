@@ -16,6 +16,10 @@ Call me = "Mendy" 🤗
 [![Linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaqueotabil)
 [![whatsApp badge](https://img.shields.io/badge/OTABIL-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233257364646?text=Hello%20otabil!%20I%27m%20coming%20from%20your%20Github%20profile)
 
+<h3 align="left">⚙ My Tech Stack:</h3>
+
+### I know : 
+
 <!---
 deAlgorithm/deAlgorithm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
