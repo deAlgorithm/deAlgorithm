@@ -79,10 +79,6 @@ Call me = "Mendy" 🤗
 </p>
 
 ## 📂 Recent Projects
-- [Project 1](https://github.com/deAlgorithm/project1): Brief description of project 1.
-- [Project 2](https://github.com/deAlgorithm/project2): Brief description of project 2.
-- [Project 3](https://github.com/deAlgorithm/project3): Brief description of project 3.
-
 <!---
 deAlgorithm/deAlgorithm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
