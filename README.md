@@ -1,8 +1,12 @@
+
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" />
 </p>
 
-![image](https://github.com/deAlgorithm/deAlgorithm/assets/131563995/68f150ed-2526-422f-9e7a-28bbbed416b9)
+<p align="center">
+    <img src="https://github.com/deAlgorithm/deAlgorithm/assets/131563995/68f150ed-2526-422f-9e7a-28bbbed416b9" alt="profile banner" />
+</p>
+
 <h1 align="center"> Hi 👋, I'm OTABIL</h1>
 
 <p align="center">
@@ -64,16 +68,18 @@ Call me = "Mendy" 🤗
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=deAlgorithm&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deAlgorithm&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deAlgorithm&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deAlgorithm&theme=github_dark)
-[![Otabil Ishaque's stats](https://github-readme-stats.vercel.app/api?username=deAlgorithm&show_icons=true&theme=github_dark)](https://github.com/deAlgorithm)
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=deAlgorithm&theme=dracula&hide_border=true" alt="GitHub Streaks" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deAlgorithm&theme=github_dark" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deAlgorithm&theme=github_dark" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deAlgorithm&theme=github_dark" alt="Most Commit Language" />
+    <img src="https://github-readme-stats.vercel.app/api?username=deAlgorithm&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
 
 
-## 📂 Recent Projects
 <!---
 deAlgorithm/deAlgorithm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ```
+
