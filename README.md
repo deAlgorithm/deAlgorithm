@@ -1,4 +1,3 @@
-
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" />
 </p>
@@ -55,6 +54,12 @@ Call me = "Mendy" 🤗
     <a href="https://github.com/deAlgorithm">
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     </a>&nbsp;&nbsp;
+    <a href="https://github.com/deAlgorithm">
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/deAlgorithm">
+        <img src="https://img.shields.io/badge/Seaborn-0696D7?style=for-the-badge&logo=Seaborn&logoColor=white" />
+    </a>&nbsp;&nbsp;
 </p>
 
 ## 🛠️ Tools & Technologies
@@ -82,4 +87,3 @@ deAlgorithm/deAlgorithm is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ```
-
