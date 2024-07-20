@@ -35,7 +35,7 @@ Call me = "Mendy" 🤗
         <img src="https://img.shields.io/badge/OTABIL-30302f?style=for-the-badge&logo=whatsapp" />
     </a>&nbsp;&nbsp;
     <a href="https://dealgorithm.github.io/">
-    <img src="https://img.shields.io/badge/Mendy The Analyst Portfolio Website-30302f?style=for-the-badge&logo=google-chrome" alt="Website" />
+    <img src="https://img.shields.io/badge/Mendy The Analyst-30302f?style=for-the-badge&logo=google-chrome" alt="Website" />
 </a>
 
 </p>
