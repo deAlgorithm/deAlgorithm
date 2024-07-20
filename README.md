@@ -34,6 +34,10 @@ Call me = "Mendy" 🤗
     <a href="https://wa.me/233257364646?text=Hello%20otabil!%20I%27m%20coming%20from%20your%20Github%20profile">
         <img src="https://img.shields.io/badge/OTABIL-30302f?style=for-the-badge&logo=whatsapp" />
     </a>&nbsp;&nbsp;
+    <a href="https://dealgorithm.github.io/">
+    <img src="https://img.shields.io/badge/Mendy The Analyst Portfolio Website-30302f?style=for-the-badge&logo=google-chrome" alt="Website" />
+</a>
+
 </p>
 
 <h3 align="left">⚙ My Tech Stack:</h3>
@@ -60,6 +64,12 @@ Call me = "Mendy" 🤗
     <a href="https://github.com/deAlgorithm">
         <img src="https://img.shields.io/badge/Seaborn-0696D7?style=for-the-badge&logo=Seaborn&logoColor=white" />
     </a>&nbsp;&nbsp;
+    <a href="https://github.com/deAlgorithm">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/deAlgorithm">
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    </a>&nbsp;&nbsp;
 </p>
 
 ## 🛠️ Tools & Technologies
@@ -80,9 +90,3 @@ Call me = "Mendy" 🤗
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deAlgorithm&theme=github_dark" alt="Most Commit Language" />
     <img src="https://github-readme-stats.vercel.app/api?username=deAlgorithm&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
-
-
-<!---
-deAlgorithm/deAlgorithm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
