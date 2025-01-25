@@ -15,7 +15,7 @@
 ## 🐼 About Me 📦🔮
 ```cpp
 Call me = "Mendy" 🤗
-🌱 I'm an aspiring Data Analyst 🖊️
+🌱 I'm a Junior Data and Business Analyst  🖊️
 🌌 Proficiently Skilled in Data Analytics and Visualisation using Python 🐍 libraries such as numpy, pandas 🐼, matplotlib, and seaborn
 ⚡ Fun facts: Swimming 🏊, Listening to Music 🎧🎵, & Surfing the internet 🌎🌐
 💬 Ask me about the journey and the answer is `CONSISTENCY, PERSISTENCE & DETERMINATION`.
