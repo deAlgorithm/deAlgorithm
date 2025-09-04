@@ -10,7 +10,8 @@
 
 <p align="center">
     Data & Business Analyst passionate about turning raw data into meaningful insights. <br />
-    Skilled in Python 🐍, Excel 📊, and modern data visualization tools 🚀
+    Skilled in Python 🐍, Excel 📊, and modern data visualization tools 🚀<br />
+    Aspiring Machine Learning Practitioner 🤖
 </p>
 
 ---
@@ -18,12 +19,12 @@
 ## 🐼 About Me 📦🔮
 ```cpp
 Call me = "Mendy" 🤗
-🌱 Junior Data & Business Analyst  
-🌌 Skilled in Python (NumPy, Pandas, Matplotlib, Seaborn) for analytics & visualization  
-📊 Experienced with BI Tools: Power BI & Tableau  
-⚡ Fun facts: Swimming 🏊 | Music 🎧 | Internet Surfing 🌐  
-💬 Motto: CONSISTENCY, PERSISTENCE & DETERMINATION  
-````
+🌱 Junior Data & Business Analyst & ML Learner
+🌌 Skilled in Python (NumPy, Pandas, Matplotlib, Seaborn) for analytics & visualization
+📊 Experienced with BI Tools: Power BI & Tableau
+⚡ Fun facts: Swimming 🏊 | Music 🎧 | Internet Surfing 🌐
+💬 Motto: CONSISTENCY, PERSISTENCE & DETERMINATION
+```
 
 ---
 
@@ -69,6 +70,10 @@ Call me = "Mendy" 🤗
 <p align="left">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 ---
@@ -85,5 +90,4 @@ Call me = "Mendy" 🤗
 
 ---
 
-🚀 **"Turning data into actionable insights to drive business success!"**
-
+🚀 **"Turning data into actionable insights while building strong ML skills!"**
