@@ -1,34 +1,44 @@
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=e91e63&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=deAlgorithm&label=Profile%20views&color=1F4E79&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
     <img src="https://github.com/deAlgorithm/deAlgorithm/assets/131563995/68f150ed-2526-422f-9e7a-28bbbed416b9" alt="profile banner" />
 </p>
 
-<h1 align="center"> Hi 👋, I'm OTABIL</h1>
+<h1 align="center">Hi 👋, I'm OTABIL</h1>
 
 <p align="center">
-    Data & Business Analyst passionate about turning raw data into meaningful insights. <br />
-    Skilled in Python 🐍, Excel 📊, and modern data visualization tools 🚀<br />
-    Aspiring Machine Learning Practitioner 🤖
+    🛡️ Cybersecurity Fellow & IT Professional | Turning security events into actionable intelligence.<br />
+    Skilled in Network Security 🔐, Digital Forensics 🕵️, and Data Analytics 📊<br />
+    ISC2 Candidate | Cisco Cybersecurity Certified | ALX Cyber Security Fellow 🚀
 </p>
 
 ---
 
-## 🐼 About Me 📦🔮
-```cpp
-Call me = "Mendy" 🤗
-🌱 Junior Data & Business Analyst & ML Learner
-🌌 Skilled in Python (NumPy, Pandas, Matplotlib, Seaborn) for analytics & visualization
-📊 Experienced with BI Tools: Power BI & Tableau
-⚡ Fun facts: Swimming 🏊 | Music 🎧 | Internet Surfing 🌐
-💬 Motto: CONSISTENCY, PERSISTENCE & DETERMINATION
+## 🔐 About Me
+
+```python
+alias       = "Mendy"  🤗
+focus       = "Cybersecurity Analyst | IT Systems | Data Analytics"
+currently   = [
+    "ALX Cyber Security Fellow — CIA Triad, System Hardening, Network Security",
+    "ISC2 Certified in Cybersecurity (CC) — Candidate",
+    "BSc Information Technology @ University of Ghana (2023–2026)"
+]
+experience  = [
+    "IT System Administration — Ghana Health Service",
+    "Frontend Developer — TransactShield Africa (Do4me)",
+    "Data Analytics — Forage x Accenture Simulation"
+]
+tools       = ["Kali Linux", "Wireshark", "Python", "Power BI", "React"]
+motto       = "PROTECT. ANALYZE. ADAPT." 🛡️
+fun_facts   = ["Swimming 🏊", "Music 🎧", "Photography 📷"]
 ```
 
 ---
 
-<h3 align="left">🔌 CONNECT WITH ME:</h3>
+<h3 align="left">🔌 Connect With Me:</h3>
 
 <p align="left">
     <a href="https://t.me/the_whiteflame">
@@ -47,33 +57,45 @@ Call me = "Mendy" 🤗
 
 ---
 
-<h3 align="left">⚙ My Tech Stack:</h3>
+<h3 align="left">🛡️ Cybersecurity Stack:</h3>
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/ISC2-006400?style=for-the-badge&logo=isc2&logoColor=white" />
+    <img src="https://img.shields.io/badge/Digital%20Forensics-2C2C2C?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+<h3 align="left">⚙️ Data & Dev Stack:</h3>
+
+<p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-0696D7?style=for-the-badge&logo=Seaborn&logoColor=white" />
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Environments
 
 <p align="left">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge&logo=monday&logoColor=white" />
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 ---
@@ -90,4 +112,4 @@ Call me = "Mendy" 🤗
 
 ---
 
-🚀 **"Turning data into actionable insights while building strong ML skills!"**
+🛡️ **"Protecting systems, analyzing threats, and turning data into actionable intelligence."**
