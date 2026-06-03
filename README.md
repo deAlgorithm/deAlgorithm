@@ -81,8 +81,9 @@ Ghana loses GH₵14.9M+ to cybercrime every single day. KwesiCyber exists to clo
 | Project | Description | Stack |
 |---|---|---|
 | [DFIR 30 Days SOC Homelab](https://github.com/deAlgorithm/DFIR_30DaysChallenge_SOC_Homelab) | Built a full SOC home lab simulating real attacks and detections. Completed 21 of 30 days covering Sysmon, ELK Stack, brute force detection, and Mythic C2 attack simulation | ELK Stack, Sysmon, Mythic C2, Kibana |
+| [SOC Skills Roadmap](https://github.com/deAlgorithm/SOC_Skills_Roadmap) | Structured 7-project SOC skills roadmap covering Splunk, Windows Forensics, Log Analysis, Active Directory Monitoring, Security Assessments, Vulnerability Management, and Malware Analysis | Splunk, Windows Forensics, Log Analysis, Active Directory, Vulnerability Management |
 | [KwesiCyber](https://kwesicyber.com) | Ghana's free community-powered cybersecurity awareness platform delivering real-time scam alerts, CSA Ghana advisories, and protection guides | Platform Building, Threat Intel |
-| [Google Cybersecurity Certificate Portfolio](https://github.com/deAlgorithm/cybersecurity-portfolio) | Portfolio projects completed as part of the Google Cybersecurity Certificate program, including a Botium Toys internal security audit and a NIST CSF incident response report | NIST CSF, Risk Assessment, Incident Response, Compliance |
+| [Google Cybersecurity Certificate Portfolio](https://github.com/deAlgorithm/cybersecurity-portfolio) | Portfolio projects completed as part of the Google Cybersecurity Certificate program, including a Botium Toys internal security audit, NIST CSF incident response report, and Linux file permissions management | NIST CSF, Risk Assessment, Incident Response, Linux, Compliance |
 
 ---
 
