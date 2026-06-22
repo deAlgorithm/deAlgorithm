@@ -18,13 +18,13 @@
 
 ## About Me
 
-I started in IT support and data analytics, but the deeper I went into systems and data, the more one question kept coming up: who is making sure all of this is safe? That curiosity turned into a direction.
+Security is not just about tools. It is about understanding what you are protecting, why it matters, and what happens when it fails. That is the lens I bring to this field.
 
-I am a final-year IT student at the University of Ghana, building hands-on skills in threat detection, SIEM, and incident response. I built a full SOC home lab from scratch using the ELK Stack, Sysmon, and Mythic C2, simulating real attacks and detecting them the way an analyst would.
+I am a final-year IT student at the University of Ghana, building hands-on skills across threat detection, vulnerability assessment, and GRC. I built a full SOC home lab from scratch using the ELK Stack, Sysmon, and Mythic C2, simulating real attacks and detecting them the way an analyst would. Alongside the technical work, I am building GRC knowledge in Ghanaian cybersecurity law, data protection, and fintech regulation because understanding the legal and compliance side of security is what separates a good analyst from a great one.
 
 Then I went a step further. I founded **KwesiCyber**, Ghana's free community-powered cybersecurity awareness platform delivering real-time scam alerts, CSA Ghana advisories, and protection guides to everyday Ghanaians in plain language.
 
-Ghana loses GH₵14.9M+ to cybercrime every single day. KwesiCyber exists to close that gap.
+Reported cyber incidents in Ghana surged by over 50% in 2025. The threat is real and growing.
 
 ---
 
@@ -50,7 +50,6 @@ Ghana loses GH₵14.9M+ to cybercrime every single day. KwesiCyber exists to clo
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -65,14 +64,12 @@ Ghana loses GH₵14.9M+ to cybercrime every single day. KwesiCyber exists to clo
     <img src="https://img.shields.io/badge/ALX%20Cybersecurity%20Certificate-E84040?style=for-the-badge&logo=alx&logoColor=white" />
     <img src="https://img.shields.io/badge/Cisco%20Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/ALX%20Data%20Analytics-E84040?style=for-the-badge&logo=alx&logoColor=white" />
-    <img src="https://img.shields.io/badge/Accenture%20Data%20Analytics-A100FF?style=for-the-badge&logo=accenture&logoColor=white" />
 </p>
 
 - Google Cybersecurity Certificate (In Progress) via Coursera
 - ALX Cybersecurity Certificate, Completed April 2026
 - Introduction to Cybersecurity, Cisco, February 2026
 - ALX Certified Data Analytics, September 2025
-- Accenture NA Data Analytics and Visualization Job Simulation, Forage, January 2025
 
 ---
 
@@ -83,7 +80,7 @@ Ghana loses GH₵14.9M+ to cybercrime every single day. KwesiCyber exists to clo
 | [DFIR 30 Days SOC Homelab](https://github.com/deAlgorithm/DFIR_30DaysChallenge_SOC_Homelab) | Built a full SOC home lab simulating real attacks and detections. Completed 21 of 30 days covering Sysmon, ELK Stack, brute force detection, and Mythic C2 attack simulation | ELK Stack, Sysmon, Mythic C2, Kibana |
 | [SOC Skills Roadmap](https://github.com/deAlgorithm/SOC_Skills_Roadmap) | Structured 7-project SOC skills roadmap covering Splunk, Windows Forensics, Log Analysis, Active Directory Monitoring, Security Assessments, Vulnerability Management, and Malware Analysis | Splunk, Windows Forensics, Log Analysis, Active Directory, Vulnerability Management |
 | [KwesiCyber](https://kwesicyber.com) | Ghana's free community-powered cybersecurity awareness platform delivering real-time scam alerts, CSA Ghana advisories, and protection guides | Platform Building, Threat Intel |
-| [Google Cybersecurity Certificate Portfolio](https://github.com/deAlgorithm/cybersecurity-portfolio) | Portfolio projects completed as part of the Google Cybersecurity Certificate program, including a Botium Toys internal security audit, NIST CSF incident response report, and Linux file permissions management | NIST CSF, Risk Assessment, Incident Response, Linux, Compliance |
+| [Google Cybersecurity Certificate Portfolio](https://github.com/deAlgorithm/cybersecurity-portfolio) | Portfolio projects completed as part of the Google Cybersecurity Certificate program, including a Botium Toys internal security audit, NIST CSF incident response report, Linux file permissions management, and a vulnerability assessment report using NIST SP 800-30 Rev. 1 | NIST CSF, Risk Assessment, Incident Response, Linux, Compliance, Vulnerability Assessment |
 
 ---
 
