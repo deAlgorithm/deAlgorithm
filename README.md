@@ -11,7 +11,7 @@
 <p align="center">
     Cybersecurity Analyst | Founder @ KwesiCyber | BSc IT, University of Ghana<br />
     Threat Detection | SIEM | Incident Response | Log Analysis<br />
-    Google Cybersecurity Certificate (In Progress) | ALX Cybersecurity Certificate (Completed April 2026)
+    Google Cybersecurity Certificate (Completed July 2026) | ALX Cybersecurity Certificate (Completed April 2026)
 </p>
 
 ---
@@ -66,7 +66,7 @@ Reported cyber incidents in Ghana surged by over 50% in 2025. The threat is real
     <img src="https://img.shields.io/badge/ALX%20Data%20Analytics-E84040?style=for-the-badge&logo=alx&logoColor=white" />
 </p>
 
-- Google Cybersecurity Certificate (In Progress) via Coursera
+- Google Cybersecurity Certificate (Completed July 2026) via Coursera
 - ALX Cybersecurity Certificate, Completed April 2026
 - Introduction to Cybersecurity, Cisco, February 2026
 - ALX Certified Data Analytics, September 2025
